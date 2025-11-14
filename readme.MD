@@ -9,6 +9,9 @@
 * dosa batter
 * karam and oil
 
+
 ## egg dosa
 * dosa batter
-* 1 egg, karam and oil
+* 1/2eggs, karam and oil
+
+
