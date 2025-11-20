@@ -20,7 +20,7 @@
 * ghee
 * kaju paste
 * panneer
-* mysore masala
-* onions and tamoto
-* capsicum
+
+
+
 
