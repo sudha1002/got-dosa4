@@ -15,3 +15,7 @@
 * 1/2eggs, karam and oil
 
 
+## paneer dosa
+* dosa batter
+
+
