@@ -26,5 +26,6 @@
 * masala curry
 * oil
 * podi
+* karam
 
 
